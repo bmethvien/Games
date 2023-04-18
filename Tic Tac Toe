@@ -16,7 +16,7 @@ def printBoard(board):
 
 def game():
 
-    #I wants X to always go first.
+    #I want X to always go first.
     turn = 'X'
     count = 0
 
